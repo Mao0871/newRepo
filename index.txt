@@ -5,3 +5,4 @@ adding menu
 add Spidy image
 add Spiderman details
 adjust code
+lab2
